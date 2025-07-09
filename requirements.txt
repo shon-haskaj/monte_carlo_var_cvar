@@ -1,5 +1,0 @@
-numpy
-pandas
-scipy
-matplotlib
-# seaborn is optional—pure matplotlib is fine
